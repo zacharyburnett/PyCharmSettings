@@ -1,0 +1,7 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="EditorStartNewLineBefore" />
+  <action id="QuickActionPopup" />
+  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+</keymap>
