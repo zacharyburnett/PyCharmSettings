@@ -12,6 +12,11 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="MatlabApplication">
+                    <value>
+                      <FeaturePluginData displayName="Matlab" pluginName="Matlab Support" pluginId="MatlabSupport" />
+                    </value>
+                  </entry>
                   <entry key="PythonConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
