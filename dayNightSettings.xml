@@ -1,0 +1,11 @@
+<application>
+  <component name="PluginPropertiesComponent">
+    <option name="daySchemeName" value="_@user_IntelliJ Light" />
+    <option name="dayStartTime" value="360" />
+    <option name="dayThemeName" value="IntelliJ Light" />
+    <option name="enabled" value="true" />
+    <option name="nightSchemeName" value="_@user_IntelliJ Light" />
+    <option name="nightStartTime" value="1080" />
+    <option name="nightThemeName" value="Darcula" />
+  </component>
+</application>
