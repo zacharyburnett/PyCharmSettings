@@ -4,7 +4,8 @@
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
+    <option name="FONT_SIZE" value="24" />
+    <option name="FONT_FAMILY" value="SF Mono Powerline" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
     <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
   </component>
