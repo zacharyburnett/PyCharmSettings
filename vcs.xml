@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/noaa-ocs-modeling/ensembleperturbation" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com&quot;" />
+          <option name="userName" value="zacharyburnettNOAA" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/repositories" />
