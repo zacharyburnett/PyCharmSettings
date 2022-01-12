@@ -8,6 +8,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="bib" type="PLAIN_TEXT" />
       <mapping ext="22" type="PLAIN_TEXT" />
+      <mapping ext="11" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bib" approved="true" type="BibTeX bibliography file" />
       <removed_mapping ext="geojson" approved="true" type="PLAIN_TEXT" />
