@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="abstract" type="AUTO_DETECTED" />
       <mapping ext="geojson" type="JSON" />
+      <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="bib" type="PLAIN_TEXT" />
