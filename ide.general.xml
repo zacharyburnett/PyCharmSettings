@@ -4,6 +4,7 @@
     <option name="confirmOpenNewProject2" value="0" />
     <option name="defaultProjectDirectory" value="$USER_HOME$/Projects" />
     <option name="processCloseConfirmation" value="TERMINATE" />
+    <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
     <option name="autoSyncFiles" value="false" />
   </component>
