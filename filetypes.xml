@@ -15,6 +15,7 @@
       <removed_mapping ext="bib" approved="true" type="BibTeX bibliography file" />
       <removed_mapping ext="geojson" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
