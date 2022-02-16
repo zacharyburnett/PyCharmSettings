@@ -7,13 +7,13 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.h" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.rst</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
-    <mask>*.py</mask>
     <mask>*.h</mask>
+    <mask>*.py</mask>
   </component>
 </application>
