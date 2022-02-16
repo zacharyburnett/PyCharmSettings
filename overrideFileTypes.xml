@@ -1,0 +1,7 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Projects/adcircpy/tests/data/input/test_import_stations/stations_1.txt" />
+    <file url="file://$USER_HOME$/Projects/adcircpy/tests/data/input/test_import_stations/stations_2.txt" />
+    <file url="file://$USER_HOME$/Projects/adcircpy/tests/data/input/test_import_stations/stations_3.txt" />
+  </component>
+</application>
