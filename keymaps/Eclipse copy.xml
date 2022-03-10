@@ -1,5 +1,13 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
   <action id="EditorStartNewLineBefore" />
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="QuickActionPopup" />
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
