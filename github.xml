@@ -1,9 +1,6 @@
 <application>
   <component name="GithubAccounts">
-    <account name="zacharyburnett" id="607620a3-fd71-47a9-9beb-893092c0a300">
-      <server host="github.com" />
-    </account>
-    <account name="zacharyburnettNOAA" id="7e47a657-7b4d-46b1-9039-dd72980be7cc">
+    <account name="zacharyburnett" id="59b811d1-dab6-42f3-85f9-1029dd1f635a">
       <server host="github.com" />
     </account>
   </component>
