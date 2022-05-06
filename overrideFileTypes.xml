@@ -3,5 +3,7 @@
     <file url="file://$USER_HOME$/Projects/adcircpy/tests/data/input/test_import_stations/stations_1.txt" />
     <file url="file://$USER_HOME$/Projects/adcircpy/tests/data/input/test_import_stations/stations_2.txt" />
     <file url="file://$USER_HOME$/Projects/adcircpy/tests/data/input/test_import_stations/stations_3.txt" />
+    <file url="file://$USER_HOME$/Projects/pyTerrainTree/pyterraintree/cython/c_Terrain_Trees.pxd" value="Cython" />
+    <file url="file://$USER_HOME$/Projects/pyTerrainTree/pyterraintree/cython/pyterraintree.pyx" value="Cython" />
   </component>
 </application>
