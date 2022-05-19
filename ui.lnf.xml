@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="MAX_LOOKUP_WIDTH2" value="854" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="28" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
