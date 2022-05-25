@@ -1,5 +1,7 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="150" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <Properties>
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
   </Properties>
