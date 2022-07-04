@@ -5,6 +5,7 @@
       <mapping pattern="Makefile" type="AUTO_DETECTED" />
       <mapping pattern="data_2.csv" type="AUTO_DETECTED" />
       <mapping pattern="abstract" type="AUTO_DETECTED" />
+      <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping ext="geojson" type="JSON" />
       <mapping ext="nb" type="Jupyter" />
       <mapping pattern=".coverage" type="PLAIN_TEXT" />
