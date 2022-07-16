@@ -2,6 +2,9 @@
   <option name="RIGHT_MARGIN" value="150" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="ENABLE_SECOND_REFORMAT" value="true" />
+  <Markdown>
+    <option name="KEEP_LINE_BREAKS_INSIDE_TEXT_BLOCKS" value="false" />
+  </Markdown>
   <Properties>
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
   </Properties>
@@ -19,7 +22,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="Markdown">
     <option name="RIGHT_MARGIN" value="80" />
-    <option name="WRAP_ON_TYPING" value="1" />
     <option name="SOFT_MARGINS" value="80" />
   </codeStyleSettings>
   <codeStyleSettings language="Properties">
